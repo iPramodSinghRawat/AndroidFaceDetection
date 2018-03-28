@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Alpha Face Detection</string>
+    <!-- Face subscription key and End Point -->
+    <!-- Please refer to http://oxford-portal.azurewebsites.net/doc/general/subscription-key-mgmt to get your subscription key -->
+    <!-- Please note that the Emotion API and Face API have different subscription keys -->
+    <!-- You will need Face subscription key, besides the Emotion subscription keys, for the second part of the sample to work -->
+    <string name="face_api_subscription_key">6d39b5b226624c8e8c4e8f6ba129c872</string>
+    <string name="m_azure_face_api_end_point">https://westcentralus.api.cognitive.microsoft.com/face/v1.0</string>
+</resources>
